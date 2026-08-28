@@ -14,7 +14,7 @@
 - 🤖 Опыт создания нейронных моделей, обучения и дальнейшей настройки (ML / AI) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%F0%9F%A4%97-%2300BFFF)](https://huggingface.co/Innokentiy)
 - 👀 Часть репозиториев перезалил со старых аккаунтов [@laf3r](https://github.com/laf3r) и `laf3r_2` (дважды забывал пароли)
 - 👾 Бывший разработчик игр на Unity — [innokentiyg7.itch.io](https://innokentiyg7.itch.io)
-- 📧 Почта: [igerasimovjob@gmail.com](mailto:igerasimovjob@gmail.com)
+- 📧 Почта: [gerasimjob2@gmail.com ](mailto:gerasimjob2@gmail.com)
 - 💻 [YouTube по ИБ](https://www.youtube.com/@laf3r) · [блог](https://laf3r.github.io/about/)
 
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro%20Hacker-9BE64D?style=flat-square)](https://app.hackthebox.com/profile/148238)
